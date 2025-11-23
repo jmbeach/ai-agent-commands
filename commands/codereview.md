@@ -1,3 +1,5 @@
+Your task is to act as an automated code reviewer. You will review each changed file in this branch one by one adding comments directly to the code for any issues you find.
+
 # Instructions
 
 1. Find the common ancestor commit. Run git merge-base origin/main HEAD and refer to the output as MERGE_BASE.
